@@ -3,3 +3,7 @@ This is an interactive notes app built using TypeScript, HTML, and CSS. It featu
 
 
 
+
+
+https://github.com/user-attachments/assets/ddd42891-ed00-4276-966a-df33719bab98
+
